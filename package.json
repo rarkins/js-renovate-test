@@ -1,0 +1,41 @@
+{
+  "name": "gt-js-starter",
+  "version": "1.0.0",
+  "templateVersion": "7.2.0",
+  "private": true,
+  "engines": {
+    "node": "18"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "test": "festack-scripts test",
+    "lint": "festack-scripts lint",
+    "verify": "festack-scripts verify",
+    "format": "festack-scripts format",
+    "upgrade": "festack-scripts upgrade",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@churchofjesuschrist/eden-buttons": "^12.0.5",
+    "@churchofjesuschrist/eden-fonts": "^1.1.1",
+    "@churchofjesuschrist/eden-headings": "^9.0.2",
+    "@churchofjesuschrist/eden-next-routeify": "^4.0.0",
+    "@churchofjesuschrist/eden-normalize": "^6.1.5",
+    "@churchofjesuschrist/eden-style-constants": "^6.4.0",
+    "@harnessio/ff-nodejs-server-sdk": "^1.3.1",
+    "next": "^12.3.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "styled-components": "^5.3.6"
+  },
+  "devDependencies": {
+    "@churchofjesuschrist/festack-scripts": "^15.2.0"
+  },
+  "eslintConfig": {
+    "extends": "./node_modules/@churchofjesuschrist/festack-scripts/lib/config/eslintrc.js"
+  },
+  "stylelint": {
+    "extends": "./node_modules/@churchofjesuschrist/festack-scripts/lib/config/stylelintrc.js"
+  }
+}
