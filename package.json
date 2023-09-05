@@ -19,7 +19,7 @@
   "dependencies": {
     "@churchofjesuschrist/eden-buttons": "^12.0.5",
     "@churchofjesuschrist/eden-fonts": "^1.1.1",
-    "@churchofjesuschrist/eden-headings": "^9.0.2",
+    "@churchofjesuschrist/eden-headings": "^10.0.0",
     "@churchofjesuschrist/eden-next-routeify": "^4.0.0",
     "@churchofjesuschrist/eden-normalize": "^6.1.5",
     "@churchofjesuschrist/eden-style-constants": "^6.4.0",
