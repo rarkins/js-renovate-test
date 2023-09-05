@@ -4,7 +4,7 @@
   "hostRules": [
     {
       "matchHost": "https://repo.churchofjesuschrist.org/artifactory",
-      "username": "svc-github-dep",
+      "hostType": "npm",
       "encrypted": {
         "token": "wcFMA/xDdHCJBTolAQ/+OcC2XsmQV15EOcTPJDf8qpidOu1ET+9GQ5FV7UHbloa9GudArFix0FopKxdROH282IhP+/vKJrR3qdkDaCiIDGrvDGvXEe8d2wwOJNsTixDMi/8VyDuT6SLmZI8MBr4hl5svRwdYfUIZbXhKm1XD4qyd5Bi7p9TnptHqlLP5oTSTjfbPNVdVxIuxxzJbSEokOuytqQ24pHcKhI55g5WywhIIlCSokw0etUkp8fhmRzn23gX8Cke3fS6GXKDbgB8pBqnpQ+THpO1FC1darj9H9Aof/WaiOGPioXdjBgwJ+/hgkkCX+rsuycrzrBcFRidiDsLBM/Rsj9ijuWXPB1o+VcSbA3+dCTXelyJr3NB++FIEJ8XaOxjDyx0LbODFHLIxtaaKhsF1d5tmGsCybd5/LcK3EsMxlMm7/V6yX7JEhDrCss/aF2CkLGH+ZhurYF2AtiD/j6wwIOL8RCFgwY1sXpBRDMKTUs5cm5R1SLe8fI7A1Unak+9j8i/+c6UaABAV3001QSR5QnDbsXwd6ta5nTRfYQg68XnZiMjJr3jbSYzCsW0tY4dkqkWBbn7Q8x6I9RKCO+kdYkh+3VTnQvDRyzEIbR/JQ0cDGrX6jsUXQVfTk6SlS2Ck3wFGgCL+rP8NidgVE+pZw9DcLIUVNWeaPgbyOCq8x81Odctow+5goHXSkwFEOhiqLiE5qYT8B9QAXMnAO39Kxq9I36oXM0PCxY2Y/qSmf/8lVwHvS0wlP59qgr+u81q2y9uDvGa8KG+eGPhIVGwT2CmRDaJL+71sb7g5LTQ0GgKhEZIxvBhJiM9gqFnymcBPlE5pkEqq/JCXZl4yFrM2mO7GstPt6m2pXgTlmMqYqxOKaH+TLhFroJsZpsNHXw"
       }
